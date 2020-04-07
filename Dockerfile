@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Ensambler
+MAINTAINER diegoulloao
 
 ENV PYTHONUNBUFFERED 1
 
