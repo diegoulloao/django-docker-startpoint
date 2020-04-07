@@ -21,7 +21,7 @@ Enter in your `project-name` folder, then create/copy your Django app in the `ap
 
 ## Step 3. Build the dockerfile.
 
-Enter into your `project-name` directory and run:
+In `project-name` directory, run:
 ```
 docker build .
 ```
@@ -37,6 +37,8 @@ Finally run:
 ```
 docker-compose up
 ```
+
+Open up your browser to http://localhost:8080/ and you should see your django app running as intended.
 
 --
 
