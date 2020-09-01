@@ -13,7 +13,7 @@ This repository provides a django development enviroment.
 Open a Terminal, browse your projects location and run:
 
 ```bash
-git clone git@github.com:diegoulloao/django-docker-startpoint.git project-name
+git clone https://github.com/diegoulloao/django-docker-startpoint.git project-name
 ```
 
 ## Step 2. Create the Django app.
